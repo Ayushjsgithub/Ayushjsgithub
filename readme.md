@@ -18,7 +18,7 @@
 
 <!-- Cycling Image -->
 <div align="center">
-  <img height="400" width="auto" alt="Cycling Vibes" src="assets/cycling.jpg" />
+  <img height="400" width="auto" alt="Cycling Vibes" src="assets/cycling.png" />
 </div>
 
 <br><br>
