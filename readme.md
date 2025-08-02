@@ -27,7 +27,11 @@
 
 <!-- 📊 GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushjsgithub&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushjsgithub&show_icons=true&theme=chartreuse-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayushjsgithub&theme=chartreuse-dark" />
 </p>
 
 ---
