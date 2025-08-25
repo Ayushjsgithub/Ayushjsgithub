@@ -1,7 +1,7 @@
 <!-- Intro -->
 <h1 align="left">
   <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" height="40" />
-  Konichiwaa
+  Konichiwa
 </h1>
 
 <!-- Banner Image -->
