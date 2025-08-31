@@ -1,7 +1,7 @@
 <!-- Intro -->
 <h1 align="left">
   <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" height="40" />
-  Konichiwa
+  Konichiwa 
 </h1>
 
 <!-- Banner Image -->
@@ -14,7 +14,7 @@
 <!-- About Me -->
 # About Me
 
-### Yo! I'm a full stack dev who shreds bugs like singletrack. When I'm not deep in a terminal, I'm chasing sunsets on two wheels 🌄🚵‍♂️
+### Yo! I am a full stack dev who shreds bugs like singletrack. When I'm not deep in a terminal, I'm chasing sunsets on two wheels 🌄🚵‍♂️
 
 <!-- Cycling Image -->
 <div align="center">
