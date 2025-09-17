@@ -14,7 +14,7 @@
 <!-- About Me -->
 # About Me
 
-### Yo! I'm a full stack dev who shreds bugs like singletrack. When I'm not deep in a terminal, I'm chasing sunsets on two wheels 🌄🚵‍♂️
+### Yo! I'm a full stack dev who shreds bugs like singletrack When I'm not deep in a terminal, I'm chasing sunsets on two wheels 🌄🚵‍♂️
 
 <!-- Cycling Image -->
 <div align="center">
