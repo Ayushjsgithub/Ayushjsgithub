@@ -25,13 +25,6 @@
 
 ---
 
-<!-- 📊 GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayushjsgithub&theme=chartreuse-dark" />
-</p>
-
----
-
 <!-- Footer Quote -->
 <p align="center">
   <em>“Life is like riding a bicycle. To keep your balance, you must keep moving” – Albert Einstein</em>
